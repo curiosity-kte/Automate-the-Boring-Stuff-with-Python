@@ -1,9 +1,9 @@
 # Automate-the-Boring-Stuff-with-Python
 Working through the Automate the Boring Stuff with Python book one chapter at a time!
 
-- Table of Contents
+## Table of Contents
 
-- Introduction
+### Introduction
 - Chapter 1 - Python Basics
 - Chapter 2 - if-else and Flow Control
 - Chapter 3 - Loops
