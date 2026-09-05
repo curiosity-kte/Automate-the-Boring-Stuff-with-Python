@@ -1,5 +1,5 @@
 # Automate-the-Boring-Stuff-with-Python
-Working through the Automate the Boring Stuff with Python book one chapter at a time!
+Working through the Automate the Boring Stuff with Python book one chapter at a time! Check out my Resources.md file for the link to the free ebook and additional resources that I find useful while working through the book.
 
 ## Table of Contents
 - Introduction
