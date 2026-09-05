@@ -4,7 +4,7 @@ Working through the Automate the Boring Stuff with Python book one chapter at a 
 Table of Contents
 
 Introduction
-Chapter 1 - Python Basics
+Chapter 1 - Python Basics\n
 Chapter 2 - if-else and Flow Control
 Chapter 3 - Loops
 Chapter 4 - Functions
